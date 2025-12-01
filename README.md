@@ -1,7 +1,7 @@
-# Study-Log
-This is my daily learning log for Cloud, Linux &amp; Automation, Python &amp; Scripting, DevOps, and other IT fundamental like OS,CN,DBMS.
-# 📘 Study Log — Akash Sharma
 
+
+# 📘 Study Log — Akash Sharma
+This is my daily learning log for Cloud, Linux &amp; Automation, Python &amp; Scripting, DevOps, and other IT fundamental like OS,CN,DBMS.
 This repository documents my daily journey of becoming a **Cloud · DevOps · Linux · Automation Engineer**.
 
 ---
