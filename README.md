@@ -22,7 +22,7 @@ This repository documents my daily journey of becoming a **Cloud · DevOps · Li
 
 | Day | Date | Topics Studied | Notes | Hours | Status |
 |-----|--------|----------------|--------|--------|--------|
-| 1 | 01 Dec 2025 |Linux,CN,Github |distros,VM setup,(PAN,LAN,CAN,WAN,MAN),Simplex,Half Duplex,Full Duplex,Repo & file operations | | |
+| 1 | 01 Dec 2025 |Linux,CN,Github |distros,VM setup,CN types,Data-Flow,Repo.& File |8 hours | ✔️ |
 | 2 | 02 Dec 2025 | | | | |
 | 3 | 03 Dec 2025 | | | | |
 | 4 | 04 Dec 2025 | | | | |
