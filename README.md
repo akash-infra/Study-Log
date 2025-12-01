@@ -29,4 +29,4 @@ This repository documents my daily journey of becoming a **Cloud · DevOps · Li
 
 ---
 
-## 📂 Folder Structure (Create these folders later)
+
