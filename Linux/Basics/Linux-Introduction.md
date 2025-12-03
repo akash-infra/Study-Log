@@ -120,7 +120,7 @@ Linux distros are grouped into major families based on their origin and package 
 
 **Examples:**
 
-* Alpine Linux — lightweight, used in Docker containers
+* Alpine Linux — lightweight, used in Docker containers             
 * Gentoo — source-based, optimized builds
 * NixOS — declarative configuration
 * Void Linux — runit init system instead of systemd
