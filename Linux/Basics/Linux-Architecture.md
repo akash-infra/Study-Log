@@ -156,7 +156,7 @@ sh
 
 
 ## Boot flow:
-<>
+<img src="https://github.com/akash-infra/Study-Log/blob/a86f7cf6b8293656ce0bd400d9bc35b46d37634e/Linux/Resources/assets/boot.gif" alt="bootflow" width=" 400" height="400">
 
 1. BIOS/UEFI loads  
 2. Bootloader (GRUB) starts  
