@@ -1,4 +1,4 @@
-# 📡 Computer Networks — Learning Repository
+# 📡 Computer Networks 
 
 Welcome to my **Computer Networks learning journey**.  
 This repository contains my notes, daily log, practice questions, diagrams, and projects based on what I study every day.  
