@@ -128,6 +128,7 @@ Linux distros are grouped into major families based on their origin and package 
 **Best for:** Specialized use cases, learning internals, performance setups.
 
 
+<img src="https://github.com/akash-infra/Study-Log/blob/810a0f947f04528e1f8470f64d849b6676c2a541/Linux/Resources/assets/Linux%20Distros.jpg" alt="diagram" width="400">
 
 
 ## 🎯 Which One Should You Use for Cloud & DevOps?
