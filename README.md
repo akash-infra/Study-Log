@@ -25,7 +25,7 @@ This repository documents my daily journey of becoming a **Cloud · DevOps · Li
 | 1 | 01 Dec 2025 |Linux,CN,Github |distros,VM setup;CN types,Data-Flow;Repo.& File |8 hours | ✔️ |
 | 2 | 02 Dec 2025 |CN,Python,Linux,git |casting,network-devices;versions,setup-install;basic cmd |3+2+2+2=9 Hours |✔️ |
 | 3 | 03 Dec 2025 |CN,LNX,python |Topologies,Switching;Virtulization,variabls,dtaTyp |4+4+2=10 Hours|✔️ |
-| 4 | 04 Dec 2025 |CN, |O.S.I, | | |
+| 4 | 04 Dec 2025 |CN,Linux |O.S.I,TCP/IP Suite,ls,pwd,cd,mkdir,rmdir,touch commands |4+4=8Hours |✔️  |
 | 5 | 05 Dec 2025 | | | | |
 | 6 | 06 Dec 2025 | | | | |
 | 7 | 07 Dec 2025 | | | | |
