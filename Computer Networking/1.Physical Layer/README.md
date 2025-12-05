@@ -213,5 +213,64 @@ Datagram = no fixed path; Virtual Circuit = fixed logical path.
 Message Switching = store & forward of full messages — too slow for real-time.
 
 ---
+# 🔁 Collision Domain vs 📣 Broadcast Domain
+
+Understanding **collision domain** and **broadcast domain** helps in network design and device selection.
+
+---
+
+## 🔹 Collision Domain
+A collision domain is an area of the network **where data packets can collide** if two or more devices transmit at the same time.
+
+### Key Points
+- Collisions degrade performance.
+- Each device **competes** for the medium.
+- Works mainly in **half-duplex** networks.
+
+### Example
+- **Hub**: All ports share one collision domain.
+- **Switch**: Each port has its own collision domain (removes collisions).
+
+📌 **Analogy:** One person speaking at a time in a small room — if many speak together they collide.
+
+---
+
+## 🔹 Broadcast Domain
+A broadcast domain is a network area **where a broadcast packet is received by all devices**.
+
+### Key Points
+- Broadcasts consume bandwidth.
+- Too many broadcasts → congestion.
+- Routers **stop** broadcasts.
+
+### Example
+- **Switch**: All ports share one broadcast domain (unless VLAN configured).
+- **Router**: Breaks broadcast domains.
+
+📌 **Analogy:** Teacher sending an announcement to the whole class — all must listen.
+
+---
+
+## 🔥 Quick Comparison
+
+| Feature | Collision Domain | Broadcast Domain |
+|--------|------------------|------------------|
+| What happens | Packet collisions | Broadcast packet propagation |
+| Devices affected | Devices on same shared medium | All hosts in same subnet |
+| Eliminated by | Switch/Full-duplex | Routers / VLAN |
+| Impact | Reduces speed | Consumes network bandwidth |
+
+---
+
+## ⚡ Final 4 Revision Lines
+Collision domain — packets crash on shared medium; fixed by switches.
+
+Broadcast domain — broadcast reaches all devices; fixed by routers.
+
+Hub = 1 collision domain, Switch = per port collision domain.
+
+Router = separates broadcast domains; Switch = single broadcast unless VLAN used.
+
+---
 
 
