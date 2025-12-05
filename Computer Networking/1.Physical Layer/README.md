@@ -92,3 +92,126 @@ Fiber = highest speed & best long-distance medium.
 Repeater regenerates signals; Hub broadcasts to all ports.
 
 ---
+# 🔀 Switching Techniques — Computer Networks
+
+Switching is the method of **transferring data across a network** by selecting a specific path from **source to destination**.  
+It decides *how* data should travel inside a network efficiently.
+
+---
+
+## 🔹 Types of Switching Techniques
+Switching is mainly classified into:
+
+| Switching Type | Data Transferred As | Path Type | Delay | Example Use |
+|----------------|---------------------|-----------|--------|-------------|
+| **Circuit Switching** | Continuous signal (bit stream) | Dedicated path | High setup latency, low transmission delay | PSTN (Telephone) |
+| **Packet Switching** | Packets (chunks) | Shared path | Variable delay | Internet |
+| **Message Switching** | Full message | Store-and-forward (hop-by-hop) | Very high delay | Telegram-like systems |
+
+---
+
+## 🔹 1️⃣ Circuit Switching
+A **dedicated physical path** is established before communication begins.
+
+### Stages
+1. Circuit Establishment  
+2. Data Transfer  
+3. Circuit Disconnection  
+
+### Pros
+- No congestion once path is established  
+- Predictable delay (constant bandwidth)
+
+### Cons
+- Wastage of bandwidth if line is idle  
+- Connection setup delay  
+
+### Example
+Telephone networks (voice calls).
+
+📌 **Analogy:** Reserving a private taxi for the whole journey — nobody else can use it.
+
+---
+
+## 🔹 2️⃣ Packet Switching
+Data is broken into **packets**, each containing:
+
+Header + Payload + Trailer
+No dedicated path; packets choose the **best available route** dynamically.
+
+### Types
+| Type | How Packets Travel | Delay | Reliability |
+|------|--------------------|-------|-------------|
+| **Datagram** | Each packet takes different route | Variable | Low |
+| **Virtual Circuit** | Path reserved before first packet | Moderate | High |
+
+### Pros
+- Efficient bandwidth usage  
+- High reliability (alternative path exists)
+
+### Cons
+- Variable delay & jitter  
+- Packets may arrive out of order
+
+### Example
+Internet & cloud networks.
+
+📌 **Analogy:** Sending letters through postal service — each may take a different path but reaches the destination.
+
+---
+
+## 🔹 3️⃣ Message Switching (Store-and-Forward)
+Data is sent **as an entire message** from one node to the next.  
+Each intermediate node **stores the complete message** before forwarding.
+
+### Pros
+- No need for dedicated path  
+- Efficient for extremely long messages
+
+### Cons
+- Very high delay; high memory usage  
+- Not suitable for real-time communication
+
+### Example
+Early telegraph systems.
+
+📌 **Analogy:** A bus that stops at every terminal and unloads everything before moving ahead.
+
+---
+
+## 🔥 Circuit vs Packet vs Message Switching — Comparison
+
+| Feature | Circuit Switching | Packet Switching | Message Switching |
+|--------|--------------------|------------------|-------------------|
+| Path | Dedicated | Not dedicated | Not dedicated |
+| Data Unit | Bit stream | Packets | Full Message |
+| Delay | Low (after setup) | Variable | Very High |
+| Storage at Nodes | Not required | Needed for packets | Large storage needed |
+| Real-time Support | ✔ | ✔ (with QoS) | ❌ |
+| Bandwidth Usage | Inefficient | Efficient | Very inefficient |
+
+---
+
+## 📌 Interview Key Points (Highly Useful for Cloud / Networking Roles)
+- Packet switching is the **foundation of the Internet**.
+- Cloud (AWS/Azure/GCP) VPC uses **packet switching with virtual circuits (tunnels / routing rules)**.
+- Circuit switching is used in **traditional voice networks**; packet switching in **VoIP**.
+- Datagram packet switching = **connectionless**, Virtual circuit = **connection-oriented**.
+- Real-time apps (Zoom, Teams) require **low latency → packet switching + QoS**.
+
+---
+
+## ⚡ 5-Line Final Revision
+Switching decides how data travels from sender to receiver across a network.
+
+Circuit Switching = dedicated path — predictable delay — used in telephony.
+
+Packet Switching = packets share multiple routes — used in the Internet & cloud.
+
+Datagram = no fixed path; Virtual Circuit = fixed logical path.
+
+Message Switching = store & forward of full messages — too slow for real-time.
+
+---
+
+
