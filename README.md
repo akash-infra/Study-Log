@@ -26,7 +26,7 @@ This repository documents my daily journey of becoming a **Cloud · DevOps · Li
 | 2 | 02 Dec 2025 |CN,Python,Linux,git |casting,network-devices;versions,setup-install;basic cmd |3+2+2+2=9 Hours |✔️ |
 | 3 | 03 Dec 2025 |CN,LNX,python |Topologies,Switching;Virtulization,variabls,dtaTyp |4+4+2=10 Hours|✔️ |
 | 4 | 04 Dec 2025 |CN,Linux |O.S.I,TCP/IP Suite,ls,pwd,cd,mkdir,rmdir,touch commands |4+4=8Hours |✔️  |
-| 5 | 05 Dec 2025 |AWS,CN,LnX,Python|Acc.Setup,Intro;Intro to DATALINK Layer |2+3+1+1=7 Hours |✔️  |
+| 5 | 05 Dec 2025 |AWS,CN,LnX,Python|AWS acc.Setup & Intro.,Intro to DATALINK Layer |2+3+1+1=7 Hours |✔️  |
 | 6 | 06 Dec 2025 | | | | |
 | 7 | 07 Dec 2025 | | | | |
 | 8 | 08 Dec 2025 | | | | |
