@@ -13,6 +13,9 @@ I update this repo continuously to track my progress from basics → advanced.
 | No. | Date | Topics Covered | Status | Time Spent | Notes / Summary |
 |-----|-------------|-------------------------|--------|-------------|-------------------------------|
 | 01 | 1 Dec 2025 |Types,Characteristics,Modes of comm.,Protocols,Casting | ✔️|4H | Fault-tolerant ,scalable,Qos,Secure;Simplex,Half-Duplex,Full-Duplex;Protocols are Rules/Standards.Unicast(1-1),Multicast(1-M),Broadcast(1-All)
+| 02 | 2 Dec 2025 |Network-Devices:Cables,Connectors |✔️|4H|(1.STP,UTP:streight-through;crossover2.Fibre(SMF,MMF) 3.Coaxial),(RJ-48;RJ-45,UPC;APC,BNC),10baseT|
+| 03 | 3 Dec 2025 |Repeaters,Hub,Bridges,Switch,Routers,Gateway,IDs,Firewall |✔️|4H|2-Port dumb L1 Device to amplify signal,Multiport Repeaters,2-Port Intelligent L2 Device;Reads MAC adress,Multiport bridge,L2/L3 Devices
+| 04 | 4 Dec 2025 |Switching Techniques:1.Circuit 2.Message 3.Packet(a.Datagram b.Virtual-circuit |✔️|4H|based on path type wheather fixed or variable with preplanned connection or connectionless packets are transfered.
 | 05 | 5 Dec 2025 | | ⏳ | | |
 | 06 | 6 Dec 2025 | | ⏳ | | |
 | 07 | 7 Dec 2025 | | ⏳ | | |
