@@ -5,7 +5,7 @@ Framing divides a continuous stream of bits into **frames** so the receiver can 
 ---
 
 ## 🔹 Why Framing Is Needed
-- To provide **synchronization** between sender and receiver
+- To provide **synchronization** between sender and receiver 
 - To apply **error detection (CRC/FCS)**
 - To support **flow control**
 
