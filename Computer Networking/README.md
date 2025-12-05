@@ -16,7 +16,7 @@ I update this repo continuously to track my progress from basics → advanced.
 | 02 | 2 Dec 2025 |Network-Devices:Cables,Connectors |✔️|4H|(1.STP,UTP:streight-through;crossover2.Fibre(SMF,MMF) 3.Coaxial),(RJ-48;RJ-45,UPC;APC,BNC),10baseT|
 | 03 | 3 Dec 2025 |Repeaters,Hub,Bridges,Switch,Routers,Gateway,IDs,Firewall |✔️|4H|2-Port dumb L1 Device to amplify signal,Multiport Repeaters,2-Port Intelligent L2 Device;Reads MAC adress,Multiport bridge,L2/L3 Devices
 | 04 | 4 Dec 2025 |Switching Techniques:1.Circuit 2.Message 3.Packet(a.Datagram b.Virtual-circuit |✔️|4H|based on path type wheather fixed or variable with preplanned connection or connectionless packets are transfered.
-| 05 | 5 Dec 2025 | | ⏳ | | |
+| 05 | 5 Dec 2025 |Topologies(Bus,Star,Ring,Mesh,Hybrid),OSI,TCP/IP |✔️|3H|Topolies=arrangements of nodes.OSI model(7L-PDNTSPA) is a theory whereas TCP/IP (4L-NaL,IntL,TrL,ApL) is a implemented model |
 | 06 | 6 Dec 2025 | | ⏳ | | |
 | 07 | 7 Dec 2025 | | ⏳ | | |
 | 08 | 8 Dec 2025 | | ⏳ | | |
