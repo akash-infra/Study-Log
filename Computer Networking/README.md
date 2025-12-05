@@ -12,10 +12,7 @@ I update this repo continuously to track my progress from basics → advanced.
 
 | No. | Date | Topics Covered | Status | Time Spent | Notes / Summary |
 |-----|-------------|-------------------------|--------|-------------|-------------------------------|
-| 01 | 1 Dec 2025 | | ⏳ | | |
-| 02 | 2 Dec 2025 | | ⏳ | | |
-| 03 | 3 Dec 2025 | | ⏳ | | |
-| 04 | 4 Dec 2025 | | ⏳ | | |
+| 01 | 1 Dec 2025 |Types,Characteristics,Modes of comm.,Protocols,Casting | ✔️|4H | Fault-tolerant ,scalable,Qos,Secure;Simplex,Half-Duplex,Full-Duplex;Protocols are Rules/Standards.Unicast(1-1),Multicast(1-M),Broadcast(1-All)
 | 05 | 5 Dec 2025 | | ⏳ | | |
 | 06 | 6 Dec 2025 | | ⏳ | | |
 | 07 | 7 Dec 2025 | | ⏳ | | |
