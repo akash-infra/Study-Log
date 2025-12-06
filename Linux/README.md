@@ -86,7 +86,7 @@ Ongoing. Updated daily as I progress.
 | 2   | 02 Dec 2025 |                |                      |        |
 | 3   | 03 Dec 2025 |                |                      |        |
 | 4   | 04 Dec 2025 |                |                      |        |
-| 5   | 05 Dec 2025 |                |                      |        |
+| 5   | 05 Dec 2025 |WinScp                |Transfering Files between Linux<-->Windows                     |  ✔️      |
 | 6   | 06 Dec 2025 |                |                      |        |
 | 7   | 07 Dec 2025 |                |                      |        |
 | 8   | 08 Dec 2025 |                |                      |        |
