@@ -17,9 +17,7 @@ I update this repo continuously to track my progress from basics → advanced.
 | 03 | 3 Dec 2025 |Repeaters,Hub,Bridges,Switch,Routers,Gateway,IDs,Firewall |✔️|4H|2-Port dumb L1 Device to amplify signal,Multiport Repeaters,2-Port Intelligent L2 Device;Reads MAC adress,Multiport bridge,L2/L3 Devices
 | 04 | 4 Dec 2025 |Switching Techniques:1.Circuit 2.Message 3.Packet(a.Datagram b.Virtual-circuit |✔️|4H|based on path type wheather fixed or variable with preplanned connection or connectionless packets are transfered.
 | 05 | 5 Dec 2025 |Topologies(Bus,Star,Ring,Mesh,Hybrid),OSI,TCP/IP |✔️|3H|Topolies=arrangements of nodes.OSI model(7L-PDNTSPA) is a theory whereas TCP/IP (4L-NaL,IntL,TrL,ApL) is a implemented model |
-| 06 | 6 Dec 2025 | | ⏳ | | |
-| 07 | 7 Dec 2025 | | ⏳ | | |
-| 08 | 8 Dec 2025 | | ⏳ | | |
+| 06 | 6 Dec 2025 |Framing(1.Bit Oriented;HDLC 2.Byte Oriented;BISYNC,DDCMP,PPP),bit &byte stufffing|✔️|4H|Flag=01111110,If flag arrives in payload;bit(0)&byte(Char) stuffing|
 | 09 | 9 Dec 2025 | | ⏳ | | |
 | 10 | 10 Dec 2025 | | ⏳ | | |
 | 11 | 11 Dec 2025 | | ⏳ | | |
