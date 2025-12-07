@@ -83,11 +83,11 @@ Ongoing. Updated daily as I progress.
 | Day | Date        | Topics Covered | Notes / Reflections | Status |
 |-----|-------------|----------------|----------------------|--------|
 | 1   | 01 Dec 2025 |VM Setup,Distros,Hypervisor(VMware)|Distros are OS with diff. tools,package-manger,functionalities over Linux-Kernel,VMware which helps creation of Virtual-Machine|  ✔️          |
-| 2   | 02 Dec 2025 |Linux_Architecture,Boot-Process,X11,Wayland,GRUB,CLI,Shell|Monolithic,Microkernel,Shell is command interpreter and CLI is comand environment                     |        |
-| 3   | 03 Dec 2025 |                |                      |        |
-| 4   | 04 Dec 2025 |                |                      |        |
+| 2   | 02 Dec 2025 |Linux_Architecture,Boot-Process,X11,Wayland,GRUB,CLI,Shell|Monolithic,Microkernel,Shell is command interpreter and CLI is command environment|  ✔️       |
+| 3   | 03 Dec 2025 |Putty,SSH                |Accessing Remote Server                     | ✔️        |
+| 4   | 04 Dec 2025 | **              |        **              |  **      |
 | 5   | 05 Dec 2025 |WinScp                |Transfering Files between Linux<-->Windows                     |  ✔️      |
-| 6   | 06 Dec 2025 |                |                      |        |
+| 6   | 06 Dec 2025 |Files & Directories Commands|pwd,whoami,date,date +%D,ls,cat,less,touch,mkdir,rmdir,cd,cd ..,cd ../..,cd /,cp,mv,tree,ln,stat,file,locate|✔️|
 | 7   | 07 Dec 2025 |                |                      |        |
 | 8   | 08 Dec 2025 |                |                      |        |
 | 9   | 09 Dec 2025 |                |                      |        |
