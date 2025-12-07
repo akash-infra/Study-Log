@@ -82,7 +82,7 @@ Ongoing. Updated daily as I progress.
 
 | Day | Date        | Topics Covered | Notes / Reflections | Status |
 |-----|-------------|----------------|----------------------|--------|
-| 1   | 01 Dec 2025 |                |                      |        |
+| 1   | 01 Dec 2025 |VM Setup,Distros,Hypervisor|                      |        |
 | 2   | 02 Dec 2025 |                |                      |        |
 | 3   | 03 Dec 2025 |                |                      |        |
 | 4   | 04 Dec 2025 |                |                      |        |
