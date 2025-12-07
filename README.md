@@ -28,7 +28,7 @@ This repository documents my daily journey of becoming a **Cloud · DevOps · Li
 | 4 | 04 Dec 2025 |CN,Linux |O.S.I,TCP/IP Suite,ls,pwd,cd,mkdir,rmdir,touch commands |4+4=8Hours |✔️  |
 | 5 | 05 Dec 2025 |AWS,CN,LnX,Python|AWS acc.Setup & Intro.,Intro to DATALINK Layer |2+3+1+1=7 Hours |✔️  |
 | 6 | 06 Dec 2025 |CN,Linux |Functions,Sublayer(MAC,LLC);Files & Directory commands |3+2=5Hours |✔️  |
-| 7 | 07 Dec 2025 |CN,Linux,Python |Framing,Error-Control,File Editing & Viewing commands |4+4+2=10 H |⏳ |
+| 7 | 07 Dec 2025 |CN,Linux|Framing,Error-Control,File Editing & Viewing commands |4+4+2=10 H |⏳ |
 | 8 | 08 Dec 2025 | | | | |
 | 9 | 09 Dec 2025 | | | | |
 | 10 | 10 Dec 2025 | | | | |
