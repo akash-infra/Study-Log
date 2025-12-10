@@ -31,7 +31,7 @@ This repository documents my daily journey of becoming a **Cloud · DevOps · Li
 | 7 | 07 Dec 2025 |CN,Linux|Framing,Error-Control,File Editing & Viewing commands |4+4+2=10 H |✔️ |
 | 8 | 08 Dec 2025 |CN |Flow-Control,Error-control,Access -control |8 Hours |✔️ |
 | 9 | 09 Dec 2025 |- |- |- |- |
-| 10 | 10 Dec 2025 | | | | |
+| 10 | 10 Dec 2025 |DBMS,CN,Linux |Instances & Schemas,Architecture,Network Layer,IP adresses,commands |8 Hours |✔️ |
 | 11 | 11 Dec 2025 | | | | |
 | 12 | 12 Dec 2025 | | | | |
 | 13 | 13 Dec 2025 | | | | |
