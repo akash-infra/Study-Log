@@ -19,7 +19,8 @@ I update this repo continuously to track my progress from basics → advanced.
 | 05 | 5 Dec 2025 |Topologies(Bus,Star,Ring,Mesh,Hybrid),OSI,TCP/IP |✔️|3H|Topolies=arrangements of nodes.OSI model(7L-PDNTSPA) is a theory whereas TCP/IP (4L-NaL,IntL,TrL,ApL) is a implemented model |
 | 06 | 6 Dec 2025 |Framing(1.Bit Oriented;HDLC 2.Byte Oriented;BISYNC,DDCMP,PPP),bit &byte stufffing|✔️|4H|Flag=01111110,If flag arrives in payload;bit(0)&byte(Char) stuffing|
 | 07 | 7 Dec 2025 |Error-Control;VRC(Pairity-Check),LRC,Checksum,CRC|4H|✔️|Odd 1s->VRC=1,In Clumn Odd 1s->LRC=1,SUM of Data Block->1's Complement=Checksum,Append (L-1)bits to Data-->Remainder of Binary-Division=CRC|
-| 09 | 9 Dec 2025 | | ⏳ | | |
+| 08 | 8 Dec 2025 |Flow-Control,Access Control |8H |✔️  |Stop & Wait,Stop & Wait-ARQ,Go-Back-N ARQ,Selective Repeat ARQ;(Pure Aloha,Slotted ALoha,CSMA,CSMA/CD,CSMA/CA),(Reservation,Polling,Token-Passing),FDMA,TDMA,CDMA |
+| 09 | 9 Dec 2025 |--|--|--|--|
 | 10 | 10 Dec 2025 | | ⏳ | | |
 | 11 | 11 Dec 2025 | | ⏳ | | |
 | 12 | 12 Dec 2025 | | | | |
