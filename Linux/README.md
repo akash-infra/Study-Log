@@ -90,7 +90,7 @@ Ongoing. Updated daily as I progress.
 | 6   | 06 Dec 2025 |Files & Directories Commands|pwd,whoami,date,date +%D,ls,cat,less,touch,mkdir,rmdir,cd,cd ..,cd ../..,cd /,cp,mv,tree,ln,stat,file,locate|✔️|
 | 7   | 07 Dec 2025 |                |                      |        |
 | 8   | 08 Dec 2025 |                |                      |        |
-| 9   | 09 Dec 2025 |                |                      |        |
+| 9   | 09 Dec 2025 |  ---------              |     -------                 |  ------      |
 | 10  | 10 Dec 2025 |                |                      |        |
 | 11  | 11 Dec 2025 |                |                      |        |
 | 12  | 12 Dec 2025 |                |                      |        |
