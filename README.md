@@ -32,8 +32,8 @@ This repository documents my daily journey of becoming a **Cloud · DevOps · Li
 | 8 | 08 Dec 2025 |CN |Flow-Control,Error-control,Access -control |8 Hours |✔️ |
 | 9 | 09 Dec 2025 |- |- |- |- |
 | 10 | 10 Dec 2025 |DBMS,CN,Linux |Instances & Schemas,Architecture,Network Layer,IP adresses,commands |8 Hours |✔️ |
-| 11 | 11 Dec 2025 | | | | |
-| 12 | 12 Dec 2025 | | | | |
+| 11 | 11 Dec 2025 |DBMS,CN,Linux,Python |E-R Modelling,IPv4 VS IPv6,Header Format,package-management commands |9 Hours |✔️ |
+| 12 | 12 Dec 2025 |DBM,Linux,Python,CN |Attribute Types,System-Service commands,Data Types & Variables,Classful addressing |10 Hours |✔️ |
 | 13 | 13 Dec 2025 | | | | |
 | 14 | 14 Dec 2025 | | | | |
 | 15 | 15 Dec 2025 | | | | |
