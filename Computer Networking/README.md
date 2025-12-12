@@ -22,8 +22,8 @@ I update this repo continuously to track my progress from basics → advanced.
 | 08 | 8 Dec 2025 |Flow-Control,Access Control |8H |✔️  |Stop & Wait,Stop & Wait-ARQ,Go-Back-N ARQ,Selective Repeat ARQ;(Pure Aloha,Slotted ALoha,CSMA,CSMA/CD,CSMA/CA),(Reservation,Polling,Token-Passing),FDMA,TDMA,CDMA |
 | 09 | 9 Dec 2025 |--|--|--|--|
 | 10 | 10 Dec 2025 |Network-Layer,IP | 4H |✔️ |Responsibilities of Network layer,Public,private,IPv4,IPv6,static IP,Dynamic IP,Unicast,Multicast,Broadcast,Anycast IPs |
-| 11 | 11 Dec 2025 | | ⏳ | | |
-| 12 | 12 Dec 2025 | | | | |
+| 11 | 11 Dec 2025 |Classful addresing |4H  |✔️ |Fix initial-bits(0,10,110,1110,1111)of first octet to decide Class(A,B,C,D,E);N.H.H.H,N.N.H.H,N.N.N.H |
+| 12 | 12 Dec 2025 |Classful addressing |4H  |✔️ |Questions based on finding class,networkId,total networks,total hosts etc.Network adress& broadcast adress are excluded |
 | 13 | 13 Dec 2025 | | ⏳ | | |
 | 14 | 14 Dec 2025 | | ⏳ | | |
 | 15 | 15 Dec 2025 | | ⏳ | | |
